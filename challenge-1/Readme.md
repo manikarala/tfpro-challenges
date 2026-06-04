@@ -1,5 +1,5 @@
 
-## Challenge 1
+## Challenge 1 
 
 This challenge is designed to test your understanding of Terraform by requiring you to fix broken code, import resources, output values, and manage Terraform states effectively.
 
