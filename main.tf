@@ -16,14 +16,14 @@ output variable_key_1 {
 }
 
 
-
+variable variable_key_org_level{}
+output variable_key_org_level {
+  value = var.variable_key_org_level
+} 
 variable variable_key_project_level{}
 output variable_key_project_level {
   value = var.variable_key_project_level
 }
 
 
-variable variable_key_org_level{}
-output variable_key_org_level {
-  value = var.variable_key_org_level
-} 
+
