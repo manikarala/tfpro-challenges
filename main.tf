@@ -4,10 +4,6 @@ resource "random_integer" "priority" {
 }
   
 
-variable variable_key{}
-output variable_key {
-  value = var.variable_key
-}
 
 
 variable variable_key_1{}
